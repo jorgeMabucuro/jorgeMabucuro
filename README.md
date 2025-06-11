@@ -103,6 +103,13 @@
     src="https://github-readme-stats.vercel.app/api?username=jorgeMabucuro&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=jorgeMabucuro&show_icons=true&theme=tokyonight&include_all_commits=true" 
+  alt="GitHub Stats" 
+  height="200"
+/>
+
+
 <img 
       align="left" 
       alt="GitHub Stats" 
