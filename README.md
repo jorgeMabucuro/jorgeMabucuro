@@ -100,15 +100,8 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jorgeMabucuro&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=jorgeMabucuro&show_icons=true&theme=tokyonight" 
   />
-
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=jorgeMabucuro&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  alt="GitHub Stats" 
-  height="200"
-/>
-
 
 <img 
       align="left" 
